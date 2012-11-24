@@ -1,0 +1,6 @@
+.base64 {
+        background-image: url(data:image/png;base64,REPLACE-ME);
+        width: 512px;
+        height: 512px;
+        background-repeat: no-repeat;
+}

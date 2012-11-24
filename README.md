@@ -31,6 +31,11 @@ use tangent lines to approximate `sqrt(x)`
 
 count words in a string
 
+[draw-pixels.go](http://tour.golang.org/#47)
+----------------
+
+generate pixel data and write to `foo.css`
+
 [prime-sieve.go](http://golang.org/doc/play/sieve.go)
 ----------------
 
