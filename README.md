@@ -30,3 +30,12 @@ use tangent lines to approximate `sqrt(x)`
 --------------
 
 count words in a string
+
+[prime-sieve.go](http://golang.org/doc/play/sieve.go)
+----------------
+
+print the first `N` prime numbers
+
+```sh
+GOMAXPROCS=$(nproc) time ./prime-sieve.go
+```
