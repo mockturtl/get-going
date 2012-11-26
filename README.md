@@ -46,6 +46,15 @@ print the Fibonacci sequence
 
 use tangent lines to approximate `x^(1/3)`
 
+[image-impl.go](http://tour.golang.org/#60)
+---------------
+
+implement `image.Image`
+
+```sh
+$ go get code.google.com/p/go-tour/pic
+```
+
 [prime-sieve.go](http://golang.org/doc/play/sieve.go)
 ----------------
 
