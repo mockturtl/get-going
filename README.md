@@ -36,6 +36,11 @@ count words in a string
 
 generate pixel data and write to `foo.css`
 
+[fibonacci.go](http://tour.golang.org/#48)
+--------------
+
+print the Fibonacci sequence
+
 [prime-sieve.go](http://golang.org/doc/play/sieve.go)
 ----------------
 
