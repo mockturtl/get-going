@@ -60,6 +60,11 @@ $ go get code.google.com/p/go-tour/pic
 
 read bytes to decode secret messages
 
+[bintrees.go](http://tour.golang.org/#70)
+-------------
+
+walk and compare binary trees
+
 [prime-sieve.go](http://golang.org/doc/play/sieve.go)
 ----------------
 
