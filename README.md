@@ -41,6 +41,11 @@ generate pixel data and write to `foo.css`
 
 print the Fibonacci sequence
 
+[cubic-newton.go](http://tour.golang.org/#49)
+-----------------
+
+use tangent lines to approximate `x^(1/3)`
+
 [prime-sieve.go](http://golang.org/doc/play/sieve.go)
 ----------------
 
