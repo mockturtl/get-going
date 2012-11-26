@@ -55,6 +55,11 @@ implement `image.Image`
 $ go get code.google.com/p/go-tour/pic
 ```
 
+[substitution-cipher.go](http://tour.golang.org/#61)
+------------------------
+
+read bytes to decode secret messages
+
 [prime-sieve.go](http://golang.org/doc/play/sieve.go)
 ----------------
 
