@@ -68,3 +68,8 @@ print the first `N` prime numbers
 ```sh
 GOMAXPROCS=$(nproc) time ./prime-sieve.go
 ```
+
+[time-bomb.go](http://tour.golang.org/#68)
+--------------
+
+`time` and `select`
